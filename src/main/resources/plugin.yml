@@ -1,0 +1,4 @@
+name: Deepslate
+version: '${project.version}'
+main: moe.quill.deepslate.Deepslate
+api-version: 1.18
